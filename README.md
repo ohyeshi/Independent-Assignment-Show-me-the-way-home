@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Show me the way to go home....
 
-You can use the [editor on GitHub](https://github.com/ohyeshi/Independent-Assignment-Show-me-the-way-home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+A software which helps 25 drunk people to go all the way home from the pub. It also restrains them to head back to the pub again. It shows the 25 houses and the pub. Representing in a all in one raster form.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
